@@ -92,10 +92,12 @@ endmodule
 ## Output:
 Logic symbol & Truthtable:
 
-![git log](com1.png)
+![git log](c1.png)
+
+Truth table
+![git log](c2.png)
 
 RTL realization :
-
-![git log](output1.jpg)
+![git log](c3.png)
 ## Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
